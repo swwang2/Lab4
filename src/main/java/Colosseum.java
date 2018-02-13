@@ -73,6 +73,7 @@ public class Colosseum {
      */
     public static Pokemon buildPokemon() {
         Pokemon tempPokemon = new Pokemon();
+
         return tempPokemon;
     }
 
